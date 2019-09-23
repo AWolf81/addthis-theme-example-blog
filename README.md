@@ -1,3 +1,11 @@
+# Example blog for AddThis Theme
+
+This repo is a usage example of [@awolf81/gatsby-theme-addthis](https://www.npmjs.com/package/@awolf81/gatsby-theme-addthis).
+
+Adding the theme is pretty straight forward. Add the theme to your `gatsby-config` and pass the `publicId` option to the theme. That's it!
+
+<hr/>
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
